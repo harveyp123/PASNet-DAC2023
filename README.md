@@ -20,7 +20,7 @@ Please cite our paper if you use the code ✔
 ```
 @inproceedings{peng2023PASNet,
   title={PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment},
-  author={Hongwu Peng, Shanglin Zhou, Yukui Luo, Nuo Xu, Shijin Duan, Ran Ran, Jiahui Zhao, Chenghong Wang, Tong Geng, Wujie Wen, Xiaolin Xu and Caiwen Ding},
+  author={Peng, Hongwu and Zhou, Shanglin and Luo, Yukui and Others},
   booktitle={Proceedings of the 60th ACM/IEEE Design Automation Conference},
   year={2023}
 }
