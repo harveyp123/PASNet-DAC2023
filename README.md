@@ -18,10 +18,12 @@ Full code will be released soon...
 
 Please cite our paper if you use the code ✔
 ```
-@inproceedings{peng2023PASNet,
+@inproceedings{peng2023pasnet,
   title={PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment},
-  author={Peng, Hongwu and Zhou, Shanglin and Luo, Yukui and Others},
-  booktitle={Proceedings of the 60th ACM/IEEE Design Automation Conference},
-  year={2023}
+  author={Peng, Hongwu and Zhou, Shanglin and Luo, Yukui and others},
+  booktitle={2023 60th ACM/IEEE Design Automation Conference (DAC)},
+  pages={1--6},
+  year={2023},
+  organization={IEEE}
 }
 ```
